@@ -1,4 +1,4 @@
-# FemMovies-client
+# myFlix-client
 
 ## Description
 
